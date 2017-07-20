@@ -1,0 +1,158 @@
+.arict{
+    width:400px;
+    height:410px;
+    background:#fff;
+    position: absolute;
+    top:-14px;
+    left:265px;
+    display: none;
+
+}
+.arict1{
+    width:400px;
+    height:410px;
+    background:#fff;
+    position: absolute;
+    top:-45px;
+    left:265px;
+    display: none;
+
+}
+.arict2{
+    width:400px;
+    height:410px;
+    background:#fff;
+    position: absolute;
+    top:-80px;
+    left:265px;
+    display: none;
+
+}
+.arict3{
+    width:400px;
+    height:410px;
+    background:#fff;
+    position: absolute;
+    top:-120px;
+    left:265px;
+    display: none;
+
+}
+.arict4{
+    width:400px;
+    height:410px;
+    background:#fff;
+    position: absolute;
+    top:-160px;
+    left:265px;
+    display: none;
+
+}
+.arict5{
+    width:400px;
+    height:410px;
+    background:#fff;
+    position: absolute;
+    top:-200px;
+    left:265px;
+    display: none;
+
+}
+.arict6{
+    width:400px;
+    height:410px;
+    background:#fff;
+    position: absolute;
+    top:-240px;
+    left:265px;
+    display: none;
+
+}
+.arict7{
+    width:400px;
+    height:410px;
+    background:#fff;
+    position: absolute;
+    top:-280px;
+    left:265px;
+    display: none;
+
+}
+.arict8{
+    width:400px;
+    height:410px;
+    background:#fff;
+    position: absolute;
+    top:-320px;
+    left:265px;
+    display: none;
+
+}
+.arict9{
+    width:400px;
+    height:410px;
+    background:#fff;
+    position: absolute;
+    top:-360px;
+    left:265px;
+    display: none;
+
+}
+.arict p{
+    color:gray;
+    padding:6px;
+
+}
+.arict1 p{
+    color:gray;
+    padding:6px;
+
+}
+.arict2 p{
+    color:gray;
+    padding:6px;
+
+}
+.arict3 p{
+    color:gray;
+    padding:6px;
+
+}
+.arict4 p{
+    color:gray;
+    padding:6px;
+
+}
+.arict5 p{
+    color:gray;
+    padding:6px;
+
+}
+.arict6 p{
+    color:gray;
+    padding:6px;
+
+}
+.arict7 p{
+    color:gray;
+    padding:6px;
+
+}
+.arict8 p{
+    color:gray;
+    padding:6px;
+
+}
+.arict9 p{
+    color:gray;
+    padding:6px;
+
+}
+.div2>ul>li:hover{
+    /*box-shadow: ;*/
+    transform: translate(10,10);
+    transition: all;
+}
+/*p:hover{*/
+    /*background:blue;*/
+/*}*/
